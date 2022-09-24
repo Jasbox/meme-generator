@@ -60,3 +60,7 @@ main {
   color: white;
   cursor: pointer;
 }
+
+.meme--image {
+  max-width: 100%;
+}
