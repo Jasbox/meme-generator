@@ -1,5 +1,5 @@
-import { useEffect } from "react";
-import { useState } from "react";
+import React, { useState,useEffect } from "react";
+
 
 export default function Meme() {
   const [meme, setMeme] = useState({
