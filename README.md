@@ -4,7 +4,7 @@
 
 ## Link to the hosted version:
 
-https://scintillating-macaron-01d13e.netlify.app/
+https://curious-cassata-153f49.netlify.app/
 
 <br>
 
